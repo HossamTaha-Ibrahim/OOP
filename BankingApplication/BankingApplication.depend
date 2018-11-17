@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1542467274 source:c:\users\eman\desktop\bankingapplication\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	"BankAccount.h"
+	"SavingsBankAccount.h"
+	"Client.h"
+	"Account.h"
+
+1542457710 c:\users\eman\desktop\bankingapplication\include\bankaccount.h
+	"Account.h"
+	<iostream>
+
+1542475079 source:c:\users\eman\desktop\bankingapplication\src\client.cpp
+	"Client.h"
+	"Account.h"
+
+1542463318 c:\users\eman\desktop\bankingapplication\include\client.h
+	<iostream>
+
+1542475171 source:c:\users\eman\desktop\bankingapplication\src\savingsbankaccount.cpp
+	"SavingsBankAccount.h"
+
+1542466188 c:\users\eman\desktop\bankingapplication\include\savingsbankaccount.h
+	"Account.h"
+	<iostream>
+
+1542459539 source:c:\users\eman\desktop\bankingapplication\src\bankaccount.cpp
+	"BankAccount.h"
+
+1542466445 c:\users\eman\desktop\bankingapplication\include\account.h
+	<iostream>
+
+1542475741 source:c:\users\eman\desktop\bankingapplication\src\account.cpp
+	"Account.h"
+	"Client.h"
+
